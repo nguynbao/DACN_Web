@@ -1,0 +1,12 @@
+.navbar{
+    height: 100px;
+    background-color: red;
+}
+.content{
+    height: 500px;
+    background-color: blue;
+}
+.footer{
+    height: 100px;
+    background-color: green;
+}
